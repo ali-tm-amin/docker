@@ -1,0 +1,6 @@
+[submodule "ms-service-docker-k8"]
+	path = ms-service-docker-k8
+	url = https://github.com/khanmaster/ms-service-docker-k8.git
+[submodule "ms-service-docker"]
+	path = ms-service-docker
+	url = https://github.com/khanmaster/ms-service-docker-k8.git
